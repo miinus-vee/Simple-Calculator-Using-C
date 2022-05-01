@@ -41,7 +41,7 @@ int main() {
 
 
 
-#Output;
+##Output;
 
 ![image](https://user-images.githubusercontent.com/91024452/166139368-33605b22-fc40-47bd-bcf4-95acf0db5b79.png)
 
